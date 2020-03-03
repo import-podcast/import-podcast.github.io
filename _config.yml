@@ -9,7 +9,7 @@ url: "http://import-podcast.ai" # the base hostname & protocol for your site, e.
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Long Do Cao & Sophie Monnier # add your name
+author: Sophie & Long # add your name
 author-img: david-freeman.jpg # add your photo
 about-author: Data Scientists # add description
 social-twitter: # add your Twitter handle

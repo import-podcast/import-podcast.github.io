@@ -23,8 +23,8 @@ Nous aborderons des thèmes variés :
 -->
 
 {% include image.html url="../assets/img/posts/episode1/long_intro.jpg" description="This is LONG" %}
+{% include image.html url="../assets/img/posts/episode1/sophie_intro.jpg" description="This is LONG" %}
 
-<img src="../assets/img/posts/episode1/sophie_intro.jpg" alt="drawing" height="400"/>
 
 Nous publierons un épisode par mois sur des thématiques d'actualité que nous souhaitons vous partager. N’hésitez pas à nous faire part de vos avis ou suggestions de sujets ou pistes d'améliorations !
 

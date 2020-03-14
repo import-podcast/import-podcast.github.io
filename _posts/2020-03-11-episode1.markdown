@@ -21,7 +21,7 @@ Nous aborderons des thèmes variés :
 <img src="../assets/img/posts/episode1/long_intro.jpg" alt="drawing" height="400"/>
 <img src="../assets/img/posts/episode1/sophie_intro.jpg" alt="drawing" height="400"/>
 
-Nous publierons un épisode par mois sur des thématiques d'actualité que nous souhaitons vous partager. N’hésitez pas à nous partager vos avis et vos suggestions de sujets ou pistes d'améliorations !
+Nous publierons un épisode par mois sur des thématiques d'actualité que nous souhaitons vous partager. N’hésitez pas à nous faire part de vos avis ou suggestions de sujets ou pistes d'améliorations !
 
 Voici les liens vers les podcasts mentionnés durant l'épisode :
 - [La French Touch Podcast] - Tout l’univers du développement Produit

@@ -28,7 +28,6 @@ Nous aborderons des thèmes variés :
 -->
 
 | [![Long](../assets/img/posts/episode1/long_intro.jpg)](Long)  | [![Sophie](../assets/img/posts/episode1/sophie_intro.jpg)](Sophie) |
-|:---:|:---:|
 | Long | Sophie |
 | Bla1 | Bla2 |
 

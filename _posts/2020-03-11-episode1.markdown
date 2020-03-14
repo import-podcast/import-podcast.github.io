@@ -18,10 +18,8 @@ Nous aborderons des thèmes variés :
 
 ## Vos animateurs dévoués
 
-![Long](../assets/img/posts/episode1/long_intro.jpg)
-
-![Sophie](../assets/img/posts/episode1/sophie_intro.jpg)
-
+<img src="../assets/img/posts/episode1/long_intro.jpg" alt="drawing" height="400"/>
+<img src="../assets/img/posts/episode1/sophie_intro.jpg" alt="drawing" height="400"/>
 
 Nous publierons un épisode par mois sur des thématiques d'actualité que nous souhaitons vous partager. N’hésitez pas à nous partager vos avis et vos suggestions de sujets ou pistes d'améliorations !
 
@@ -35,11 +33,12 @@ Voici les liens vers les podcasts mentionnés durant l'épisode :
 
 Rendez-vous au mois prochain pour de nouvelles aventures !
 
-![La Dream Team](../assets/img/posts/episode1/together.jpeg)
+<img src="../assets/img/posts/episode1/together.jpeg" alt="drawing" height="400"/>
 
 Pour nous joindre, rien de plus simple :
-sophie@import-podcast.ai
-long@import-podcast.ai
+
+- sophie@import-podcast.ai
+- long@import-podcast.ai
 
    [La French Touch Podcast]: <https://twitter.com/LaFrenchTouchFM>
    [L’IA Business]: <https://open.spotify.com/show/0qT5B3QOUkL3CDTnE0FyYM>

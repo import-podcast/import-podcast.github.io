@@ -37,8 +37,8 @@ Rendez-vous au mois prochain pour de nouvelles aventures !
 
 Pour nous joindre, rien de plus simple :
 
-- sophie@import-podcast.ai
-- long@import-podcast.ai
+- [sophie@import-podcast.ai](mailto:sophie@import-podcast.ai)
+- [long@import-podcast.ai](mailto:long@import-podcast.ai)
 
    [La French Touch Podcast]: <https://twitter.com/LaFrenchTouchFM>
    [L’IA Business]: <https://open.spotify.com/show/0qT5B3QOUkL3CDTnE0FyYM>

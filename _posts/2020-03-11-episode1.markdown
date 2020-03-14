@@ -22,9 +22,15 @@ Nous aborderons des thèmes variés :
 <img src="../assets/img/posts/episode1/long_intro.jpg" alt="drawing" height="400"/>
 -->
 
+<!---
 {% include image.html url="../assets/img/posts/episode1/long_intro.jpg" description="This is LONG" %}
+{% include image.html url="../assets/img/posts/episode1/sophie_intro.jpg" description="This is LONG" %}
+-->
 
-<img src="../assets/img/posts/episode1/sophie_intro.jpg" alt="drawing" height="400"/>
+| [![Long](../assets/img/posts/episode1/long_intro.jpg)](Long)  | [![Sophie](../assets/img/posts/episode1/sophie_intro.jpg)](Sophie) |
+| Long | Sophie |
+| Bla1 | Bla2 |
+
 
 Nous publierons un épisode par mois sur des thématiques d'actualité que nous souhaitons vous partager. N’hésitez pas à nous faire part de vos avis ou suggestions de sujets ou pistes d'améliorations !
 
